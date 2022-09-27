@@ -1,0 +1,15 @@
+/home/saint/Desktop/AreaPerimeterCircle/obj/Debug/net6.0/AreaPerimeterCircle.csproj.AssemblyReference.cache
+/home/saint/Desktop/AreaPerimeterCircle/obj/Debug/net6.0/AreaPerimeterCircle.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/AreaPerimeterCircle/obj/Debug/net6.0/AreaPerimeterCircle.AssemblyInfoInputs.cache
+/home/saint/Desktop/AreaPerimeterCircle/obj/Debug/net6.0/AreaPerimeterCircle.AssemblyInfo.cs
+/home/saint/Desktop/AreaPerimeterCircle/obj/Debug/net6.0/AreaPerimeterCircle.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/AreaPerimeterCircle/bin/Debug/net6.0/AreaPerimeterCircle
+/home/saint/Desktop/AreaPerimeterCircle/bin/Debug/net6.0/AreaPerimeterCircle.deps.json
+/home/saint/Desktop/AreaPerimeterCircle/bin/Debug/net6.0/AreaPerimeterCircle.runtimeconfig.json
+/home/saint/Desktop/AreaPerimeterCircle/bin/Debug/net6.0/AreaPerimeterCircle.dll
+/home/saint/Desktop/AreaPerimeterCircle/bin/Debug/net6.0/AreaPerimeterCircle.pdb
+/home/saint/Desktop/AreaPerimeterCircle/obj/Debug/net6.0/AreaPerimeterCircle.dll
+/home/saint/Desktop/AreaPerimeterCircle/obj/Debug/net6.0/refint/AreaPerimeterCircle.dll
+/home/saint/Desktop/AreaPerimeterCircle/obj/Debug/net6.0/AreaPerimeterCircle.pdb
+/home/saint/Desktop/AreaPerimeterCircle/obj/Debug/net6.0/AreaPerimeterCircle.genruntimeconfig.cache
+/home/saint/Desktop/AreaPerimeterCircle/obj/Debug/net6.0/ref/AreaPerimeterCircle.dll
